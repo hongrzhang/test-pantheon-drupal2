@@ -1,0 +1,7 @@
+recommender.my_page:
+  path: '/recommender/testPage'
+  defaults:
+    _controller: '\Drupal\recommender\Controller\RecommenderController::testPage'
+    _title: 'Recommender Test page'
+  requirements:
+    _permission: 'access content'

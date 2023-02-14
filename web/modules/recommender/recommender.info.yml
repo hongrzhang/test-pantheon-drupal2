@@ -1,0 +1,5 @@
+name: Recommender
+package: Custom
+type: module
+description: Recommender module.
+core_version_requirement: ^9
